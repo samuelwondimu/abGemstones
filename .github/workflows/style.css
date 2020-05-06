@@ -1,0 +1,57 @@
+body{
+    background-image: url(/images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.mainpage{
+    color: beige;
+
+    
+}
+#title{
+    color: beige;
+    padding: 4% 10%;
+    background-color: #20503e;
+
+}
+
+
+.mainh1{
+    padding:  7% 15%;
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Eczar', serif;
+}
+.brand{
+ color: antiquewhite;
+}
+.maintext{
+    color: beige;
+    font-size: 75px;
+    font-family: 'Eczar', serif;
+}
+.mainp1{
+    position: relative;
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+#produtcs{
+    padding: 100px;
+    text-align: center;
+}
+
+.product-col{
+    padding: 3% 2%;
+    text-align: center;
+}
+
+
+#footer{
+    color: beige;
+    background-color: #20503e;
+
+}
